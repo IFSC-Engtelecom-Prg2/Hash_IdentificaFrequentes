@@ -1,0 +1,9 @@
+que 10
+Babilônia 5
+com 5
+não 5
+rei 5
+labirinto 3
+nem 3
+onde 3
+seus 3

@@ -1,0 +1,5 @@
+que 10
+Babilônia 5
+com 5
+não 5
+rei 5
